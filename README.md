@@ -2,6 +2,8 @@
 
 A DYNAMIXEL slave device implementation for the OpenRB-150 board that controls NeoPixel LED strips through DYNAMIXEL protocol commands.
 
+![OpenRB NeoPixel Controller](IMG_2082.jpg)
+
 ## Overview
 
 This project implements a DYNAMIXEL slave device on the OpenRB-150 board that allows remote control of NeoPixel LED strips. The device acts as a bridge between DYNAMIXEL protocol commands and NeoPixel control, enabling you to control RGB LED strips from any DYNAMIXEL master device or software.
